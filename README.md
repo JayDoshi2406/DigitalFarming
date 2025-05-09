@@ -32,3 +32,4 @@ This is repository regarding digital farming which shows the soil type ,it's nut
 
 
 Author - Jay Doshi
+23bce111
